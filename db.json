@@ -15,18 +15,25 @@
       "date": "2019-05-31T16:18:04.245Z"
     },
     {
+      "id": 3,
       "message": "1122 wireless down",
       "attention": true,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T15:46:48.690Z",
-      "id": 3
+      "tech": "Sam Smith",
+      "date": "2022-01-29T17:18:28.847Z"
     },
     {
-      "id": 4,
-      "message": "Workstation 026 is up and running",
+      "message": "fixed 002 hard drive",
       "attention": false,
-      "tech": "Sara Wilson",
-      "date": "2019-05-31T19:57:35.544Z"
+      "tech": "John Doe",
+      "date": "2022-01-29T16:39:52.002Z",
+      "id": 5
+    },
+    {
+      "message": "Server is down on station 231",
+      "attention": true,
+      "tech": "Sam Smith",
+      "date": "2022-01-29T16:41:08.390Z",
+      "id": 6
     }
   ],
   "techs": [
